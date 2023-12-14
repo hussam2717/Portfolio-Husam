@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Husam/static/css/main.d3091f33.css",
+    "main.js": "/Portfolio-Husam/static/js/main.29378231.js",
+    "static/media/hussamdp.jpg": "/Portfolio-Husam/static/media/hussamdp.192e5f57ad94463c089b.jpg",
+    "static/media/hussamdp2.png": "/Portfolio-Husam/static/media/hussamdp2.58a3a59aabf4e101983e.png",
+    "static/media/HussamCV.jpeg": "/Portfolio-Husam/static/media/HussamCV.4d7e459305a628bd053d.jpeg",
+    "index.html": "/Portfolio-Husam/index.html",
+    "main.d3091f33.css.map": "/Portfolio-Husam/static/css/main.d3091f33.css.map",
+    "main.29378231.js.map": "/Portfolio-Husam/static/js/main.29378231.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3091f33.css",
+    "static/js/main.29378231.js"
+  ]
+}

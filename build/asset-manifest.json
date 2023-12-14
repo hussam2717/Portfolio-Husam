@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.7a66e807.css",
+    "main.js": "/my-app/static/js/main.9f3db277.js",
+    "static/media/hussamdp.jpg": "/my-app/static/media/hussamdp.192e5f57ad94463c089b.jpg",
+    "static/media/hussamdp2.png": "/my-app/static/media/hussamdp2.58a3a59aabf4e101983e.png",
+    "static/media/HussamCV.jpeg": "/my-app/static/media/HussamCV.4d7e459305a628bd053d.jpeg",
+    "index.html": "/my-app/index.html",
+    "main.7a66e807.css.map": "/my-app/static/css/main.7a66e807.css.map",
+    "main.9f3db277.js.map": "/my-app/static/js/main.9f3db277.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a66e807.css",
+    "static/js/main.9f3db277.js"
+  ]
+}
